@@ -1,0 +1,243 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/valentin/RiderProjects/dotnet_core_sctp_client/Main/Main.csproj": {}
+  },
+  "projects": {
+    "/home/valentin/RiderProjects/OwlGenerator/OwlGenerator/OwlGenerator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/valentin/RiderProjects/OwlGenerator/OwlGenerator/OwlGenerator.csproj",
+        "projectName": "OwlGenerator",
+        "projectPath": "/home/valentin/RiderProjects/OwlGenerator/OwlGenerator/OwlGenerator.csproj",
+        "packagesPath": "/home/valentin/.nuget/packages/",
+        "outputPath": "/home/valentin/RiderProjects/OwlGenerator/OwlGenerator/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/valentin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/valentin/RiderProjects/dotnet_core_sctp_client/Ostis.Sctp.Tools/Ostis.Sctp.Tools.csproj": {
+                "projectPath": "/home/valentin/RiderProjects/dotnet_core_sctp_client/Ostis.Sctp.Tools/Ostis.Sctp.Tools.csproj"
+              },
+              "/home/valentin/RiderProjects/dotnet_core_sctp_client/Ostis.Sctp/Ostis.Sctp.csproj": {
+                "projectPath": "/home/valentin/RiderProjects/dotnet_core_sctp_client/Ostis.Sctp/Ostis.Sctp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "dotNetRDF": {
+              "target": "Package",
+              "version": "[2.7.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/valentin/RiderProjects/dotnet_core_sctp_client/Main/Main.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/valentin/RiderProjects/dotnet_core_sctp_client/Main/Main.csproj",
+        "projectName": "Main",
+        "projectPath": "/home/valentin/RiderProjects/dotnet_core_sctp_client/Main/Main.csproj",
+        "packagesPath": "/home/valentin/.nuget/packages/",
+        "outputPath": "/home/valentin/RiderProjects/dotnet_core_sctp_client/Main/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/valentin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/valentin/RiderProjects/OwlGenerator/OwlGenerator/OwlGenerator.csproj": {
+                "projectPath": "/home/valentin/RiderProjects/OwlGenerator/OwlGenerator/OwlGenerator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "GtkDotNet": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/valentin/RiderProjects/dotnet_core_sctp_client/Ostis.Sctp.Tools/Ostis.Sctp.Tools.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/valentin/RiderProjects/dotnet_core_sctp_client/Ostis.Sctp.Tools/Ostis.Sctp.Tools.csproj",
+        "projectName": "Ostis.Sctp.Tools",
+        "projectPath": "/home/valentin/RiderProjects/dotnet_core_sctp_client/Ostis.Sctp.Tools/Ostis.Sctp.Tools.csproj",
+        "packagesPath": "/home/valentin/.nuget/packages/",
+        "outputPath": "/home/valentin/RiderProjects/dotnet_core_sctp_client/Ostis.Sctp.Tools/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/valentin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/valentin/RiderProjects/dotnet_core_sctp_client/Ostis.Sctp/Ostis.Sctp.csproj": {
+                "projectPath": "/home/valentin/RiderProjects/dotnet_core_sctp_client/Ostis.Sctp/Ostis.Sctp.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/valentin/RiderProjects/dotnet_core_sctp_client/Ostis.Sctp/Ostis.Sctp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/valentin/RiderProjects/dotnet_core_sctp_client/Ostis.Sctp/Ostis.Sctp.csproj",
+        "projectName": "Ostis.Sctp",
+        "projectPath": "/home/valentin/RiderProjects/dotnet_core_sctp_client/Ostis.Sctp/Ostis.Sctp.csproj",
+        "packagesPath": "/home/valentin/.nuget/packages/",
+        "outputPath": "/home/valentin/RiderProjects/dotnet_core_sctp_client/Ostis.Sctp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/valentin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

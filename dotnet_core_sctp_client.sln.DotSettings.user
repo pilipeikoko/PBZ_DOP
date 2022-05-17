@@ -1,0 +1,8 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bb1ef8ab_002D690a_002D4fbe_002Db995_002D190ce9acebb4/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestSocketConnect" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::18771491-8774-46F4-A530-74C59754C9E4::net6.0::Ostis.Tests.ConnectTest.TestSocketConnect&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::18771491-8774-46F4-A530-74C59754C9E4::net6.0::Ostis.Tests.ArgumentsTest&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::18771491-8774-46F4-A530-74C59754C9E4::net6.0::Ostis.Tests.CommandsTest.TestCreateNodeSync&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ostis.Sctp.Tools/1.0.0": {
+        "dependencies": {
+          "Ostis.Sctp": "1.0.0"
+        },
+        "runtime": {
+          "Ostis.Sctp.Tools.dll": {}
+        }
+      },
+      "Ostis.Sctp/1.0.0": {
+        "runtime": {
+          "Ostis.Sctp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ostis.Sctp.Tools/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ostis.Sctp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
